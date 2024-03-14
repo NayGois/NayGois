@@ -1,8 +1,7 @@
 ## Oii! Eu sou a Nayara Gois
 
 - 📱 Atualmente cursando Tecnologia em Desenvolvimento Mobile
-- 🔭Atualmente fazendo estágio em programação
-- 🌱Estudando JavaScript
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nayara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
