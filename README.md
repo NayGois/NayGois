@@ -1,6 +1,6 @@
 ## Oii! Eu sou a Nayara Gois
 
-- 📱 Atualmente cursando Tecnologia em Desenvolvimento Mobile
+- 📱 Atualmente cursando Tecnologia em Desenvolvimento de App Mobile
 
 
 <div style="display: inline_block"><br>
